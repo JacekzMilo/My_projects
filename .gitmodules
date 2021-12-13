@@ -4,3 +4,6 @@
 [submodule "Investigate-a-relational-Database"]
 	path = Investigate-a-relational-Database
 	url = git@github.com:JacekzMilo/Investigate-a-relational-Database.git
+[submodule "Investigate-a-Bikeshare-database"]
+	path = Investigate-a-Bikeshare-database
+	url = git@github.com:JacekzMilo/Investigate-a-Bikeshare-database.git
