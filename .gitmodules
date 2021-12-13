@@ -1,0 +1,3 @@
+[submodule "WebPortfolio"]
+	path = WebPortfolio
+	url = git@github.com:JacekzMilo/WebPortfolio.git
