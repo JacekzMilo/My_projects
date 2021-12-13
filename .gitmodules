@@ -1,3 +1,6 @@
 [submodule "WebPortfolio"]
 	path = WebPortfolio
 	url = git@github.com:JacekzMilo/WebPortfolio.git
+[submodule "Investigate-a-relational-Database"]
+	path = Investigate-a-relational-Database
+	url = git@github.com:JacekzMilo/Investigate-a-relational-Database.git
