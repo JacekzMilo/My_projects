@@ -7,3 +7,6 @@
 [submodule "Investigate-a-Bikeshare-database"]
 	path = Investigate-a-Bikeshare-database
 	url = git@github.com:JacekzMilo/Investigate-a-Bikeshare-database.git
+[submodule "covid-analysis"]
+	path = covid-analysis
+	url = git@github.com:JacekzMilo/covid-analysis.git
