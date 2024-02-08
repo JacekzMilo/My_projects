@@ -10,6 +10,7 @@
 [submodule "covid-analysis"]
 	path = covid-analysis
 	url = git@github.com:JacekzMilo/covid-analysis.git
+	branch = main
 [submodule "Crypto_nlp"]
 	path = Crypto_nlp
 	url = git@github.com:JacekzMilo/Crypto_nlp.git
