@@ -16,3 +16,6 @@
 [submodule "Transaction-categorization"]
 	path = Transaction-categorization
 	url = https://github.com/JacekzMilo/Transaction-categorization
+[submodule "Web-portfolio"]
+	path = Web-portfolio
+	url = https://github.com/JacekzMilo/Web-portfolio.git
