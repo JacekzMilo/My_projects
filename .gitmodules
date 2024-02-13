@@ -16,3 +16,6 @@
 [submodule "Web-portfolio"]
 	path = Web-portfolio
 	url = https://github.com/JacekzMilo/Web-portfolio.git
+[submodule "RDS-to-BQ"]
+	path = RDS-to-BQ
+	url = https://github.com/JacekzMilo/RDS-to-BQ
