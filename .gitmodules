@@ -19,3 +19,6 @@
 [submodule "RDS-to-BQ"]
 	path = RDS-to-BQ
 	url = https://github.com/JacekzMilo/RDS-to-BQ
+[submodule "Bank_app"]
+	path = Bank_app
+	url = https://github.com/JacekzMilo/Bank_app.git
